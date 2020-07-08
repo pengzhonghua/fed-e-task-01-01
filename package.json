@@ -1,0 +1,23 @@
+{
+  "name": "fed-e-task-01-01",
+  "version": "1.0.0",
+  "description": "## 简答题 ### 第一题 谈谈你是如何理解JS异步编程的，EventLoop、消息队列都是做什么的，什么是宏任务，什么是微任务？",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pengzhonghua/fed-e-task-01-01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pengzhonghua/fed-e-task-01-01/issues"
+  },
+  "homepage": "https://github.com/pengzhonghua/fed-e-task-01-01#readme",
+  "dependencies": {
+    "lodash": "^4.17.18"
+  }
+}
